@@ -1,0 +1,23 @@
+{
+  "name": "bookcart-backend",
+  "version": "1.0.0",
+  "description": "Backend for book store application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/durgasankar/bookcart-backend.git"
+  },
+  "author": "Durgasankar Mishra",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/durgasankar/bookcart-backend/issues"
+  },
+  "homepage": "https://github.com/durgasankar/bookcart-backend#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongoose": "^6.6.0"
+  }
+}
